@@ -22,23 +22,23 @@ const validarFormulario = (e) => {
         break;
         
         case 'nombre':
-            console.log('ie')
+            
         break;
             
         case 'password':
-            console.log('i')
+            
         break;
 
         case 'password2':
-            console.log('aj')
+            
         break;
             
         case 'correo':
-            console.log('io')
+           
         break;
             
         case 'telefono':
-            console.log('iu')
+            
         break;
                            
     }
